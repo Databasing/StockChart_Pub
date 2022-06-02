@@ -1,0 +1,10 @@
+select 
+    stock_id,
+    date,
+    lag
+    (close - sma) * (cast(2 as float)/(20 + 1)) + sma as ema_calc
+from 
+    data_fact
+where
+    stock_id = 1
+    and row_number = 21

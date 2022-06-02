@@ -1,0 +1,27 @@
+master_symbol = ['atvi','amd','msft','nvda','t','nflx','wm','lamr','huya','iq']
+
+
+ATVI
+AMD
+MSFT
+NVDA
+T
+NFLX
+WM
+LAMR
+HUYA
+IQ
+FB
+TWTR
+WMT
+TGT
+VYMI
+DG
+RTN
+LMT
+AAPL
+V
+PYPL
+BA
+
+master_symbol = ['atvi','amd','msft','nvda','t','nflx','wm','lamr','huya','iq','fb','twtr','wmt','tgt','vymi','dg','rtn','lmt','aapl','v','PYPL','ba']
